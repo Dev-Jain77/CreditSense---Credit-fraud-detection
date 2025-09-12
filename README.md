@@ -23,8 +23,6 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
 * **Analytics:** K-Means clustering, anomaly detection (z-score)
 
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
-
 ## 📊 Sample Data
 
 * The project runs on **500+ synthetic user profiles** with credit history, payment records, and income stability.
