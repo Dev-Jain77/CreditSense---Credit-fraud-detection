@@ -23,27 +23,6 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
 * **Analytics:** K-Means clustering, anomaly detection (z-score)
 
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/credit-risk-assessment.git
-   cd credit-risk-assessment
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-
-   ```bash
-   npm run dev
-   ```
-
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📊 Sample Data
