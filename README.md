@@ -22,9 +22,6 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
 * **Data Visualization:** Recharts, Lucide React
 * **Analytics:** K-Means clustering, anomaly detection (z-score)
 
-## 📸 Screenshots
-
-*(Add screenshots of your dashboard UI here for better presentation)*
 
 ## 🚀 Getting Started
 
