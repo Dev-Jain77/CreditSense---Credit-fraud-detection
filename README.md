@@ -5,7 +5,7 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
 ## 🔑 Features
 
 * **FICO-inspired Risk Scoring Engine**
-  Evaluates **500+ profiles** based on credit score, payment history, and income stability.
+  Evaluates **profiles** based on credit score, payment history, and income stability.
 
 * **Real-Time Fraud Detection**
   Uses **z-score anomaly analysis** to flag abnormal behavior.
