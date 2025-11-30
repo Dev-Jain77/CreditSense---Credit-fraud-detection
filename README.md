@@ -8,7 +8,7 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
   Evaluates **500+ profiles** based on credit score, payment history, and income stability.
 
 * **Real-Time Fraud Detection**
-  Uses **z-score anomaly analysis** to flag abnormal behavior, reducing fraud by **12%**.
+  Uses **z-score anomaly analysis** to flag abnormal behavior.
 
 * **K-Means Segmentation & Dashboard**
   Clusters customers into tiers (Premium to Basic) with BI-ready visualizations for targeted insights.
