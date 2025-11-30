@@ -11,7 +11,7 @@ A full-stack project for **credit risk modeling, fraud detection, and customer s
   Uses **z-score anomaly analysis** to flag abnormal behavior, reducing fraud by **12%**.
 
 * **K-Means Segmentation & Dashboard**
-  Clusters customers into tiers (Premium → Basic) with BI-ready visualizations for targeted insights.
+  Clusters customers into tiers (Premium to Basic) with BI-ready visualizations for targeted insights.
 
 * **Interactive React Dashboard**
   Visualizes portfolio stats, risk tiers, and real-time metrics with a clean and dynamic UI.
